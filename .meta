@@ -1,3 +1,8 @@
 {
-  "projects": {}
+  "projects": {
+    "FunshopperDomain": "git@github.com:funshopper/FunshopperDomain.git",
+    "FunShopperCloudConfig": "git@github.com:funshopper/FunShopperCloudConfig.git",
+    "FunShopperServiceRegistry": "git@github.com:funshopper/FunShopperServiceRegistry.git",
+    "FunShopperCloudConfiguration": "git@github.com:funshopper/FunShopperCloudConfiguration.git"
+  }
 }
